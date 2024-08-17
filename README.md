@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/139392689?s=400&u=e8b109553d2a90e2631022427f510cfbea8e32be&v=4)"  />
 
 ###
 
