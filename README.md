@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Faizan Anwar Khan</h2>
-<h3 align="left">A Web Developer and Competitive Programmer from India</h3>
+<h3 align="left">A Software Developer and Competitive Programmer from India</h3>
 
 <p align="left">
   I'm a passionate and skilled web developer with experience in building modern web applications using the latest technologies. I specialize in front-end development with React.js and Tailwind CSS, and I have hands-on experience with the MERN stack. Additionally, I'm deeply involved in competitive programming, constantly improving my problem-solving skills and applying various algorithmic techniques.
