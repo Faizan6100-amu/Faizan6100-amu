@@ -1,12 +1,15 @@
-<h2 align="left">Hi 👋! I'm Faizan Anwar Khan</h2>
+<!-- HEADER -->
+<h2 align="left">Hi 👋, I'm Faizan Anwar Khan</h2>
 <h3 align="left">Software Developer & Competitive Programmer from India</h3>
 
+<!-- ABOUT ME -->
 <p align="left">
-  I'm a passionate web developer with experience in building modern web applications using the latest technologies. I specialize in front-end development with React.js and Tailwind CSS, and I have hands-on experience with the MERN stack. Additionally, I am deeply involved in competitive programming, continually honing my problem-solving skills with various algorithmic techniques.
+  I am a passionate and skilled web developer specializing in modern web application development using cutting-edge technologies. With expertise in front-end development (React.js, Tailwind CSS) and hands-on experience with the MERN stack, I strive to build seamless and responsive user experiences. Alongside my development work, I am an avid competitive programmer, constantly refining my problem-solving skills through algorithm challenges.
 </p>
 
 ---
 
+<!-- GITHUB STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizan6100-amu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan6100-amu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
@@ -14,14 +17,15 @@
 
 ---
 
+<!-- PROFILE AVATAR -->
 <div align="right">
   <img src="https://avatars.githubusercontent.com/u/139392689?s=400&u=e8b109553d2a90e2631022427f510cfbea8e32be&v=4" height="150" alt="Profile Avatar" />
 </div>
 
 ---
 
+<!-- SKILLS & TOOLS -->
 ### 🔧 Languages and Tools
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />&nbsp;
@@ -42,27 +46,28 @@
 
 ---
 
+<!-- PROJECTS -->
 ### 📚 Projects
 
 - **Movix**  
-  *React.js, Redux, Tailwind CSS, MongoDB, API*  
+  *Technologies:* React.js, Redux, Tailwind CSS, MongoDB, API  
   [Demo](https://movixbykhan.netlify.app)  
-  A movie streaming platform built with the MERN stack. Movix offers a seamless experience for browsing, searching, and streaming a vast collection of movies and TV shows with real-time updates.
+  A comprehensive movie streaming platform built with the MERN stack, offering seamless browsing, searching, and real-time streaming of movies and TV shows.
 
 - **EduVerse**  
-  *PHP, JavaScript, Bootstrap, MySQL*  
+  *Technologies:* PHP, JavaScript, Bootstrap, MySQL  
   [GitHub Repository](https://github.com/Faizan6100-amu/EduVerse-Elearning)  
-  An innovative e-learning platform that serves as a comprehensive educational hub, offering diverse courses and resources tailored to learners of all ages.
+  An innovative e-learning hub designed to offer a wide array of courses and educational resources for learners across various age groups.
 
 - **ShopZen**  
-  *HTML, CSS, JavaScript, MUI*  
+  *Technologies:* HTML, CSS, JavaScript, MUI  
   [GitHub Repository](https://github.com/Faizan6100-amu/ShopZen)  
-  A user-friendly front-end for an e-commerce website project, designed to ensure intuitive navigation and an enhanced user experience.
+  A user-friendly front-end solution for an e-commerce project, crafted to enhance navigation and improve the overall shopping experience.
 
 ---
 
+<!-- CONTACT -->
 ### 📫 How to Reach Me
-
 <div align="left">
   <a href="https://www.linkedin.com/in/faizan-anwar-khan-amu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -79,6 +84,7 @@
 
 ---
 
+<!-- FOOTER ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake Animation" />
 </div>
