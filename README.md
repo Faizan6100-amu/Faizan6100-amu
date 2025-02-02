@@ -1,31 +1,32 @@
-<!-- HEADER -->
-<h2 align="left">Hi 👋, I'm Faizan Anwar Khan</h2>
-<h3 align="left">Software Developer & Competitive Programmer from India</h3>
+<!--
+  =====================================================
+  Faizan Anwar Khan | Software Developer & Competitive Programmer
+  =====================================================
+-->
 
-<!-- ABOUT ME -->
-<p align="left">
-  I am a passionate and skilled web developer specializing in modern web application development using cutting-edge technologies. With expertise in front-end development (React.js, Tailwind CSS) and hands-on experience with the MERN stack, I strive to build seamless and responsive user experiences. Alongside my development work, I am an avid competitive programmer, constantly refining my problem-solving skills through algorithm challenges.
+# Faizan Anwar Khan
+
+<p align="center">
+  <strong>Software Developer | Competitive Programmer</strong><br/>
+  India
 </p>
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan6100-amu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan6100-amu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
-</div>
+## 👤 About Me
+
+I am a passionate and dedicated software developer with expertise in building modern web applications using the latest technologies. My strengths include:
+
+- **Front-End Development:** Crafting responsive and interactive user interfaces with React.js and Tailwind CSS.
+- **Full-Stack Skills:** Hands-on experience with the MERN stack to deliver seamless, end-to-end solutions.
+- **Competitive Programming:** Constantly sharpening my problem-solving skills and applying innovative algorithmic techniques.
+
+I thrive on challenging projects that push my creative and technical boundaries.
 
 ---
 
-<!-- PROFILE AVATAR -->
-<div align="right">
-  <img src="https://avatars.githubusercontent.com/u/139392689?s=400&u=e8b109553d2a90e2631022427f510cfbea8e32be&v=4" height="150" alt="Profile Avatar" />
-</div>
+## 🛠 Technical Skills
 
----
-
-<!-- SKILLS & TOOLS -->
-### 🔧 Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />&nbsp;
@@ -46,28 +47,64 @@
 
 ---
 
-<!-- PROJECTS -->
-### 📚 Projects
+## 🚀 Projects
 
-- **Movix**  
-  *Technologies:* React.js, Redux, Tailwind CSS, MongoDB, API  
-  [Demo](https://movixbykhan.netlify.app)  
-  A comprehensive movie streaming platform built with the MERN stack, offering seamless browsing, searching, and real-time streaming of movies and TV shows.
+- ### **Movix**
+  **Technologies:** React.js, Redux, Tailwind CSS, MongoDB, API  
+  **Demo:** [movixbykhan.netlify.app](https://movixbykhan.netlify.app)  
+  A comprehensive movie streaming platform built using the MERN stack. Movix provides users with an intuitive interface to browse, search, and stream movies and TV shows with real-time updates.
 
-- **EduVerse**  
-  *Technologies:* PHP, JavaScript, Bootstrap, MySQL  
-  [GitHub Repository](https://github.com/Faizan6100-amu/EduVerse-Elearning)  
-  An innovative e-learning hub designed to offer a wide array of courses and educational resources for learners across various age groups.
+- ### **EduVerse**
+  **Technologies:** PHP, JavaScript, Bootstrap, MySQL  
+  **Repository:** [GitHub - EduVerse-Elearning](https://github.com/Faizan6100-amu/EduVerse-Elearning)  
+  An innovative e-learning platform serving as a one-stop educational hub with a vast array of courses and resources tailored to learners of all ages.
 
-- **ShopZen**  
-  *Technologies:* HTML, CSS, JavaScript, MUI  
-  [GitHub Repository](https://github.com/Faizan6100-amu/ShopZen)  
-  A user-friendly front-end solution for an e-commerce project, crafted to enhance navigation and improve the overall shopping experience.
+- ### **ShopZen**
+  **Technologies:** HTML, CSS, JavaScript, MUI  
+  **Repository:** [GitHub - ShopZen](https://github.com/Faizan6100-amu/ShopZen)  
+  A user-centric front-end solution for an e-commerce project, designed to ensure seamless navigation and an enhanced shopping experience.
 
 ---
 
-<!-- CONTACT -->
-### 📫 How to Reach Me
+## 💼 Professional Experience
+
+*Note: Customize the details below with your actual work experience.*
+
+- **Software Developer | [Company Name]**  
+  *Location | Month Year – Present*  
+  - Developed and maintained web applications using modern technologies.
+  - Collaborated with cross-functional teams to design and implement scalable solutions.
+  - Improved application performance by optimizing code and integrating efficient algorithms.
+
+- **Freelance Developer**  
+  *Remote | Month Year – Month Year*  
+  - Delivered multiple client projects, ranging from simple websites to complex web applications.
+  - Engaged in full-cycle development, including requirement analysis, design, implementation, and maintenance.
+
+---
+
+## 🎓 Education
+
+*Note: Customize the details below with your actual education details.*
+
+- **Bachelor of Technology in Computer Science**  
+  *University Name, City*  
+  *Month Year – Month Year*  
+  Relevant Coursework: Data Structures & Algorithms, Web Development, Database Systems
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan6100-amu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan6100-amu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
+</div>
+
+---
+
+## 📫 Contact Me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/faizan-anwar-khan-amu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -80,11 +117,12 @@
   </a>
 </div>
 
-<br clear="both" />
-
 ---
 
-<!-- FOOTER ANIMATION -->
+## 💖 Dynamic Lovable Footer
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake Animation" />
+  <!-- Animated heart GIF courtesy of GIPHY -->
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Lovable Heart Animation" width="150" />
+  <h3>Made with <span style="color: #e25555;">&#10084;</span> and Passion by Faizan Anwar Khan</h3>
 </div>
