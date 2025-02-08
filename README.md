@@ -6,7 +6,9 @@
 
 <!-- Header with Animated Banner -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Animated Banner" width="90%" height="30%" />
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+       alt="Animated Banner" 
+       style="width: 90%; max-height: 150px; object-fit: contain;" />
 </div>
 
 # Faizan Anwar Khan
@@ -107,84 +109,94 @@ I am a passionate and dedicated software developer with a proven track record in
 
 ## 🏆 Certifications & Awards
 
-<div>
-  <h3 style="color: #20c997;">Certifications</h3>
-  <ul>
-    <li>
-      <img src="https://img.shields.io/badge/Certified_Java_Developer-1F8AC0?style=for-the-badge&logo=java&logoColor=white" alt="Certified Java Developer" />  
-      Certified Java Developer – Oracle
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px;">
+  <h3 style="color: #20c997; border-bottom: 2px solid #20c997; padding-bottom: 5px;">Certifications</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="background: #f8f9fa; padding: 10px; margin-bottom: 8px; border-left: 4px solid #20c997; border-radius: 5px;">
+      <strong>Certified React Developer</strong> – Udemy
     </li>
-    <li>
-      <img src="https://img.shields.io/badge/React_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Developer" />  
-      Certified React Developer – Facebook
+    <li style="background: #f8f9fa; padding: 10px; margin-bottom: 8px; border-left: 4px solid #20c997; border-radius: 5px;">
+      <strong>Certified DSA using Java </strong> – Coding Ninjas
     </li>
   </ul>
 </div>
 
-<div>
-  <h3 style="color: #20c997;">Awards</h3>
-  <ul>
-    <li>
-      <img src="https://img.shields.io/badge/Coding_Champion-28a745?style=for-the-badge&logo=codepen&logoColor=white" alt="Coding Champion" />  
-      Coding Champion – National Coding Competition 2022
+
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px;">
+  <h3 style="color: #20c997; border-bottom: 2px solid #20c997; padding-bottom: 5px;">Awards</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="background: #f8f9fa; padding: 10px; margin-bottom: 8px; border-left: 4px solid #20c997; border-radius: 5px;">
+      <strong>Scholarship for Academic Excellence</strong> (2023-24) – Aligarh Muslim University
     </li>
-    <li>
-      <img src="#" alt="Academic Excellence" />  
-      Recipient of the Scholarship for Academic Excellence (2023- 24) – Aligarh Muslim University4
+    <li style="background: #f8f9fa; padding: 10px; margin-bottom: 8px; border-left: 4px solid #20c997; border-radius: 5px;">
+      <strong>Coding Champion</strong> – National Coding Competition 2023
     </li>
   </ul>
 </div>
+
 
 ---
 
 ## 🚀 Projects
 
-<div>
-  <h3 style="color: #fd7e14;">Movix</h3>
-  <p>
-    <strong>Technologies:</strong> React.js, Redux, Tailwind CSS, MongoDB, API<br/>
-    <strong>Demo:</strong> <a href="https://movixbykhan.netlify.app" target="_blank">movixbykhan.netlify.app</a>
-  </p>
-  <p>A comprehensive movie streaming platform that offers a seamless interface for browsing, searching, and streaming movies and TV shows in real-time.</p>
-</div>
+<div style="font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px;">
 
-<div>
-  <h3 style="color: #fd7e14;">EduVerse</h3>
-  <p>
-    <strong>Technologies:</strong> PHP, JavaScript, Bootstrap, MySQL<br/>
-    <strong>Repository:</strong> <a href="https://github.com/Faizan6100-amu/EduVerse-Elearning" target="_blank">GitHub - EduVerse-Elearning</a>
-  </p>
-  <p>An innovative e-learning platform that serves as a one-stop hub for a diverse range of educational courses and resources.</p>
-</div>
+  <div style="border-left: 4px solid #fd7e14; padding: 10px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px;">
+    <h3 style="color: #fd7e14; margin-bottom: 5px;">Movix</h3>
+    <p><strong>Technologies:</strong> React.js, Redux, Tailwind CSS, MongoDB, API</p>
+    <p><strong>Demo:</strong> <a href="https://movixbykhan.netlify.app" target="_blank" style="color: #007bff; text-decoration: none;">movixbykhan.netlify.app</a></p>
+    <p>A comprehensive movie streaming platform that offers a seamless interface for browsing, searching, and streaming movies and TV shows in real-time.</p>
+  </div>
 
-<div>
-  <h3 style="color: #fd7e14;">ShopZen</h3>
-  <p>
-    <strong>Technologies:</strong> HTML, CSS, JavaScript, MUI<br/>
-    <strong>Repository:</strong> <a href="https://github.com/Faizan6100-amu/ShopZen" target="_blank">GitHub - ShopZen</a>
-  </p>
-  <p>A user-friendly front-end solution for an e-commerce project designed to offer a smooth and engaging shopping experience.</p>
+  <div style="border-left: 4px solid #fd7e14; padding: 10px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px;">
+    <h3 style="color: #fd7e14; margin-bottom: 5px;">EduVerse</h3>
+    <p><strong>Technologies:</strong> PHP, JavaScript, Bootstrap, MySQL</p>
+    <p><strong>Repository:</strong> <a href="https://github.com/Faizan6100-amu/EduVerse-Elearning" target="_blank" style="color: #007bff; text-decoration: none;">GitHub - EduVerse-Elearning</a></p>
+    <p>An innovative e-learning platform that serves as a one-stop hub for a diverse range of educational courses and resources.</p>
+  </div>
+
+  <div style="border-left: 4px solid #fd7e14; padding: 10px; margin-bottom: 15px; background: #f8f9fa; border-radius: 5px;">
+    <h3 style="color: #fd7e14; margin-bottom: 5px;">ShopZen</h3>
+    <p><strong>Technologies:</strong> HTML, CSS, JavaScript, MUI</p>
+    <p><strong>Repository:</strong> <a href="https://github.com/Faizan6100-amu/ShopZen" target="_blank" style="color: #007bff; text-decoration: none;">GitHub - ShopZen</a></p>
+    <p>A user-friendly front-end solution for an e-commerce project designed to offer a smooth and engaging shopping experience.</p>
+  </div>
+
 </div>
 
 ## 📫 Contact Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/faizan-anwar-khan-amu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anwarfaizankhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://faizan-khanportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
+<div style="font-family: Arial, sans-serif; text-align: center; padding: 20px;">
+  <p><strong>Feel free to connect with me:</strong></p>
+  
+  <p>
+    🔗 <strong>LinkedIn:</strong>  
+    <a href="https://www.linkedin.com/in/faizan-anwar-khan-amu" target="_blank" style="color: #0A66C2; text-decoration: none; font-weight: bold;">
+      Faizan Anwar Khan
+    </a>
+  </p>
+  
+  <p>
+    📧 <strong>Email:</strong>  
+    <a href="mailto:anwarfaizankhan@gmail.com" target="_blank" style="color: #D14836; text-decoration: none; font-weight: bold;">
+      anwarfaizankhan@gmail.com
+    </a>
+  </p>
+  
+  <p>
+    🌐 <strong>Portfolio:</strong>  
+    <a href="https://faizan-khanportfolio.netlify.app/" target="_blank" style="color: #00C7B7; text-decoration: none; font-weight: bold;">
+      faizan-khanportfolio.netlify.app
+    </a>
+  </p>
 </div>
 
----
 
 ## 💖 Footer
 
-<div align="center">
-  <!-- Animated Heart GIF -->
-  <h3>Made with <span style="color: #e25555;">&#10084;</span> and Passion by Faizan Anwar Khan</h3>
+<div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
+  <h3 style="color: #333;">
+    Made with <span style="color: #e25555;">❤️</span> and Passion by <strong>Faizan Anwar Khan</strong>
+  </h3>
 </div>
+
