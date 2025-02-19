@@ -164,39 +164,3 @@ I am a passionate and dedicated software developer with a proven track record in
 
 </div>
 
-## 📫 Contact Me
-
-<div style="font-family: Arial, sans-serif; text-align: center; padding: 20px;">
-  <p><strong>Feel free to connect with me:</strong></p>
-  
-  <p>
-    🔗 <strong>LinkedIn:</strong>  
-    <a href="https://www.linkedin.com/in/faizan-anwar-khan-amu" target="_blank" style="color: #0A66C2; text-decoration: none; font-weight: bold;">
-      Faizan Anwar Khan
-    </a>
-  </p>
-  
-  <p>
-    📧 <strong>Email:</strong>  
-    <a href="mailto:anwarfaizankhan@gmail.com" target="_blank" style="color: #D14836; text-decoration: none; font-weight: bold;">
-      anwarfaizankhan@gmail.com
-    </a>
-  </p>
-  
-  <p>
-    🌐 <strong>Portfolio:</strong>  
-    <a href="https://faizan-khanportfolio.netlify.app/" target="_blank" style="color: #00C7B7; text-decoration: none; font-weight: bold;">
-      faizan-khanportfolio.netlify.app
-    </a>
-  </p>
-</div>
-
-
-## 💖 Footer
-
-<div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
-  <h3 style="color: #333;">
-    Made with <span style="color: #e25555;">❤️</span> and Passion by <strong>Faizan Anwar Khan</strong>
-  </h3>
-</div>
-
