@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
        alt="Animated Banner" 
-       style="width: 90%; max-height: 100px; object-fit: contain;" />
+       style="width: 90%; max-height: 40px; object-fit: contain;" />
 </div>
 
 # Faizan Anwar Khan
@@ -43,7 +43,7 @@ I am a passionate and dedicated software developer with a proven track record in
 
 <!-- Experience Section with Colorful Badges and Icons -->
 <div>
-  <h3 style="color: #007ACC;">Software Developer | IISD</h3>
+  <h3 style="color: #007ACC;"> Associate Software Developer | IISD</h3>
   <p><em>New Delhi, India | Sept. 2024 – Dec. 2024</em></p>
   <ul>
     <li>Developed and maintained scalable web applications using the MERN stack and microservices architecture.</li>
