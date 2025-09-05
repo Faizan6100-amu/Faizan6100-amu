@@ -6,13 +6,13 @@
 
 <!-- Header with Animated Banner -->
 <div align="center" style="font-size:1.5em;">
-  👋 Welcome to My GitHub!
+  <b>👋 Welcome to My GitHub!</b>
 </div>
 
 # Faizan Anwar Khan
 
 <p align="center">
-  <strong style="font-size:1.5em;">Assistant Professor | Software Developer | Computer Science enthusiast</strong><br/>
+  <strong style="font-size:1.5em;">Assistant Professor | Software Engineer | Computer Science enthusiast</strong><br/>
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
 </p>
 
@@ -23,8 +23,8 @@
 I am a passionate educator and dedicated software developer specializing in Artificial Intelligence and Machine Learning. Alongside teaching and research, I build modern web applications using cutting-edge technologies. My core competencies include:
 
 - **🤖 AI/ML Focus:** Guiding students and exploring innovative solutions in **Artificial Intelligence** and **Machine Learning**.
-- **Full-Stack Engineering:** Proficient with the **MERN stack** (MongoDB, Express, React, Node.js) to deliver end-to-end solutions.
-- **Creative & Collaborative:** I thrive on **teamwork**, **research**, and **innovative projects** that bridge academia and industry.
+- **⚙️ Full-Stack Engineering:** Proficient with the **MERN stack** (MongoDB, Express, React, Node.js) to deliver end-to-end solutions.
+- **🤝 Creative & Collaborative:** I thrive on **teamwork**, **research**, and **innovative projects** that bridge academia and industry.
 
 ---
 
@@ -42,8 +42,8 @@ I am a passionate educator and dedicated software developer specializing in Arti
 <!-- Experience Section with Colorful Badges and Icons -->
 
 <div>
-  <h3 style="color: #007ACC;"> Assisant Professor | Presidency University</h3>
-  <p><em>New Delhi, India | July 2025 – current</em></p>
+  <h3 style="color: #007ACC;"> Assistant Professor | Presidency University</h3>
+  <p><em>Bengaluru, India | July 2025 – current</em></p>
 </div>
 <div>
   <h3 style="color: #007ACC;"> Associate Software Developer | IISD</h3>
