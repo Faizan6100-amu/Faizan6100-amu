@@ -12,7 +12,7 @@
 # Faizan Anwar Khan
 
 <p align="center">
-  <strong style="font-size:1.5em;">Software Developer | Computer Science enthusiast</strong><br/>
+  <strong style="font-size:1.5em;">Assistant Professor | Software Developer | Computer Science enthusiast</strong><br/>
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
 </p>
 
@@ -20,11 +20,11 @@
 
 ## 👤 About Me
 
-I am a passionate and dedicated software developer with a proven track record in building modern web applications using cutting-edge technologies. My core competencies include:
+I am a passionate educator and dedicated software developer specializing in Artificial Intelligence and Machine Learning. Alongside teaching and research, I build modern web applications using cutting-edge technologies. My core competencies include:
 
-- **Front-End Development:** Expert in crafting responsive, dynamic user interfaces with **React.js**, **Tailwind CSS**, and more.
+- **🤖 AI/ML Focus:** Guiding students and exploring innovative solutions in **Artificial Intelligence** and **Machine Learning**.
 - **Full-Stack Engineering:** Proficient with the **MERN stack** (MongoDB, Express, React, Node.js) to deliver end-to-end solutions.
-- **Creative & Collaborative:** I thrive on teamwork, innovative projects, and bringing ideas to life with robust code.
+- **Creative & Collaborative:** I thrive on **teamwork**, **research**, and **innovative projects** that bridge academia and industry.
 
 ---
 
@@ -40,9 +40,14 @@ I am a passionate and dedicated software developer with a proven track record in
 ## 💼 Professional Experience
 
 <!-- Experience Section with Colorful Badges and Icons -->
+
+<div>
+  <h3 style="color: #007ACC;"> Assisant Professor | Presidency University</h3>
+  <p><em>New Delhi, India | July 2025 – current</em></p>
+</div>
 <div>
   <h3 style="color: #007ACC;"> Associate Software Developer | IISD</h3>
-  <p><em>New Delhi, India | Sept. 2024 – Dec. 2024</em></p>
+  <p><em>New Delhi, India | Sept. 2024 – Jan. 2025</em></p>
   <ul>
     <li>Developed and maintained scalable web applications using the MERN stack and microservices architecture.</li>
     <li>Collaborated with cross-functional teams to design intuitive user interfaces and ensure optimal performance.</li>
@@ -51,7 +56,7 @@ I am a passionate and dedicated software developer with a proven track record in
 </div>
 
 <div>
-  <h3 style="color: #007ACC;">Web Developer | NEP-Cell (Aligarh Muslim University)</h3>
+  <h3 style="color: #007ACC;">Software Developer | NEP-Cell (Aligarh Muslim University)</h3>
   <p><em>Aligarh | Jan. 2024 – July 2024</em></p>
   <ul>
     <li>Developed and maintained scalable web applications using the MERN stack and microservices architecture.</li>
